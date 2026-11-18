@@ -1,6 +1,6 @@
-# Nvidia Thor with VLLM_0.34.0 Cosmos3-Edge 
+# Nvidia Thor with VLLM_0.34.0 Cosmos3-Edge with Gradio frontend.
 
-##Personal Protective Gear question wording.
+## Personal Protective Gear question wording.
 
 Find question wordings that make Cosmos 3 Edge read small protective gear (hard hats,
 hi-vis vests, safety glasses) as reliably as it finds people. Background: the forum
