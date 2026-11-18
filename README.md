@@ -1,4 +1,6 @@
-# Cosmos3-Edge PPE question-wording lab
+# Nvidia Thor with VLLM_0.34.0 Cosmos3-Edge 
+
+##Personal Protective Gear question wording.
 
 Find question wordings that make Cosmos 3 Edge read small protective gear (hard hats,
 hi-vis vests, safety glasses) as reliably as it finds people. Background: the forum
